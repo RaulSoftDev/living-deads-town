@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: 5b64ad665951b97459acda687cb2e392
+  - enabled: 1
+    path: Assets/Scenes/MainTitle.unity
+    guid: 41202d31cbf631549914399e394aad6e
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 36b3f4a720516f4428c0e1a8aa8500ed
+  - enabled: 1
+    path: Assets/Scenes/Placement 2.unity
+    guid: 3a1ffc18f1b81954695e4b0fa7e65283
+  - enabled: 1
+    path: Assets/Scenes/Placement 3.unity
+    guid: 048b145b7d9eb574f8ff9fc3250005ab
+  - enabled: 1
+    path: Assets/Scenes/Placement 1.unity
+    guid: 22ca9bedcd53ebb4b8068324dddcaefd
+  - enabled: 1
+    path: Assets/Scenes/Placement 4.unity
+    guid: a7f49eea01a57c5458d08a9606fa7c2e
+  - enabled: 1
+    path: Assets/Scenes/Placement 5.unity
+    guid: 084369a2baca9174e85f7a3058a284fd
+  - enabled: 1
+    path: Assets/Scenes/Victory 1.unity
+    guid: a9b360597752ffb4a882a17bc1f6d7b3
+  - enabled: 1
+    path: Assets/Scenes/Victory 2.unity
+    guid: 35b5d68a03de86849916834a9c1a040c
+  - enabled: 1
+    path: Assets/Scenes/Victory 3.unity
+    guid: 62fdc56b48bb794489e7b0683d01c74b
+  - enabled: 1
+    path: Assets/Scenes/Victory 4.unity
+    guid: 8c06c1d7fe856a04793c66002aa69171
+  - enabled: 1
+    path: Assets/Scenes/Victory 5.unity
+    guid: 0e4c18f0191651243bfd8afa73bec8e1
+  - enabled: 1
+    path: Assets/Scenes/CurrentMenu.unity
+    guid: 03a4c54dfbf6a4c4890a4cd4c90a71e2
+  m_configObjects: {}

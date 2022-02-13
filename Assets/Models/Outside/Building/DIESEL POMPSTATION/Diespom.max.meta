@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: e32dcb7036254ee44826b1fa0b2b70ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Camera01
+    100004: Camera01 1
+    100006: Camera01.Target
+    100008: Camera01.Target 1
+    100010: diescel
+    100012: diescel1
+    100014: diesentr
+    100016: diesflo1
+    100018: diesfloo
+    100020: dieshara
+    100022: dieshing
+    100024: dieshor
+    100026: dieshor1
+    100028: dieshut
+    100030: dieskne
+    100032: diespipe
+    100034: diesplf1
+    100036: diesplfo
+    100038: //RootNode
+    100040: diespum1
+    100042: diespum2
+    100044: diespump
+    100046: diesrehu
+    100048: diesshut
+    100050: diesstair
+    100052: diestabl
+    100054: diestowe
+    100056: diestube
+    100058: diesvert
+    100060: dieswall
+    100062: dieswast
+    100064: dieswind
+    100066: Dummy01
+    100068: Dummy01 1
+    100070: Spot01
+    100072: Spot01.Target
+    100074: Spot02
+    100076: Spot02.Target
+    100078: Spot03
+    100080: Spot03.Target
+    100082: Spot04
+    100084: Spot04.Target
+    100086: Spot05
+    100088: Spot05.Target
+    100090: SUELO
+    400000: Box01
+    400002: Camera01
+    400004: Camera01 1
+    400006: Camera01.Target
+    400008: Camera01.Target 1
+    400010: diescel
+    400012: diescel1
+    400014: diesentr
+    400016: diesflo1
+    400018: diesfloo
+    400020: dieshara
+    400022: dieshing
+    400024: dieshor
+    400026: dieshor1
+    400028: dieshut
+    400030: dieskne
+    400032: diespipe
+    400034: diesplf1
+    400036: diesplfo
+    400038: //RootNode
+    400040: diespum1
+    400042: diespum2
+    400044: diespump
+    400046: diesrehu
+    400048: diesshut
+    400050: diesstair
+    400052: diestabl
+    400054: diestowe
+    400056: diestube
+    400058: diesvert
+    400060: dieswall
+    400062: dieswast
+    400064: dieswind
+    400066: Dummy01
+    400068: Dummy01 1
+    400070: Spot01
+    400072: Spot01.Target
+    400074: Spot02
+    400076: Spot02.Target
+    400078: Spot03
+    400080: Spot03.Target
+    400082: Spot04
+    400084: Spot04.Target
+    400086: Spot05
+    400088: Spot05.Target
+    400090: SUELO
+    2000000: Camera01
+    2000002: Camera01 1
+    2100000: No Name
+    2100002: SUELO
+    2100004: ventanas-casetas
+    2100006: 'Material #84'
+    2100008: 'Material #83'
+    2100010: muros
+    2100012: deposito-vertical
+    2100014: escaleras-muro
+    2100016: barandilla v
+    2100018: mesa-silla
+    2100020: suelo
+    2100022: suelo-torreta
+    2100024: 'Material #89'
+    2100026: 'Material #90'
+    2100028: 'Material #88'
+    2100030: madera-caseta
+    2100032: 'Material #92'
+    2100034: 'Material #91'
+    2100036: 'Material #86'
+    2100038: 'Material #85'
+    2100040: 'Material #87'
+    2100042: escalones-torreta
+    2100044: tuberia
+    2100046: casetas-delan
+    2100048: deposito-horiz
+    2100050: bisagra
+    2100052: barandilla
+    2100054: uralita
+    2100056: tejas
+    2300000: Box01
+    2300002: diescel
+    2300004: diescel1
+    2300006: diesentr
+    2300008: diesflo1
+    2300010: diesfloo
+    2300012: dieshara
+    2300014: dieshing
+    2300016: dieshor
+    2300018: dieshor1
+    2300020: dieshut
+    2300022: dieskne
+    2300024: diespipe
+    2300026: diesplf1
+    2300028: diesplfo
+    2300030: diespum1
+    2300032: diespum2
+    2300034: diespump
+    2300036: diesrehu
+    2300038: diesshut
+    2300040: diesstair
+    2300042: diestabl
+    2300044: diestowe
+    2300046: diestube
+    2300048: diesvert
+    2300050: dieswall
+    2300052: dieswast
+    2300054: dieswind
+    2300056: SUELO
+    3300000: Box01
+    3300002: diescel
+    3300004: diescel1
+    3300006: diesentr
+    3300008: diesflo1
+    3300010: diesfloo
+    3300012: dieshara
+    3300014: dieshing
+    3300016: dieshor
+    3300018: dieshor1
+    3300020: dieshut
+    3300022: dieskne
+    3300024: diespipe
+    3300026: diesplf1
+    3300028: diesplfo
+    3300030: diespum1
+    3300032: diespum2
+    3300034: diespump
+    3300036: diesrehu
+    3300038: diesshut
+    3300040: diesstair
+    3300042: diestabl
+    3300044: diestowe
+    3300046: diestube
+    3300048: diesvert
+    3300050: dieswall
+    3300052: dieswast
+    3300054: dieswind
+    3300056: SUELO
+    4300000: Box01
+    4300002: SUELO
+    4300004: dieswind
+    4300006: dieswast
+    4300008: dieswall
+    4300010: diesvert
+    4300012: diestube
+    4300014: diestowe
+    4300016: diestabl
+    4300018: diesflo1
+    4300020: diesfloo
+    4300022: diesstair
+    4300024: diesshut
+    4300026: diesrehu
+    4300028: diespum2
+    4300030: diespum1
+    4300032: diespump
+    4300034: diesplf1
+    4300036: diesplfo
+    4300038: diespipe
+    4300040: dieshut
+    4300042: dieskne
+    4300044: dieshor1
+    4300046: dieshor
+    4300048: dieshing
+    4300050: dieshara
+    4300052: diesentr
+    4300054: diescel1
+    4300056: diescel
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Spot01
+    10800002: Spot02
+    10800004: Spot03
+    10800006: Spot04
+    10800008: Spot05
+    6000828045688606266: Camera01
+    6000828045688606268: Camera01 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

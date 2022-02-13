@@ -1,0 +1,99 @@
+# Blender MTL File: 'M4A1 SOPMOD.blend'
+# Material Count: 9
+newmtl Grip
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.024849 0.024849 0.024849
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump /Volumes/Seagate HD/Blends/M4A1 SOPMOD/Textures/N_Checker_Hand_Grip.png
+
+
+newmtl Iron_Sight_Iron_Sight_AO
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Volumes/Seagate HD/Blends/M4A1 SOPMOD/Textures/Iron Sight AO.png
+
+
+newmtl M4A1_SOPMOD.001_Brushed_Metal.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Volumes/Seagate HD/Blends/M4A1 SOPMOD/Textures/Brushed_Metal.png
+
+
+newmtl Magazine_AO.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.040000 0.040000 0.040000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Volumes/Seagate HD/Blends/M4A1 SOPMOD/Textures/Magazine.png
+
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.280438 0.280438 0.280438
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+
+newmtl None_AO.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd /Volumes/Seagate HD/Blends/M4A1 SOPMOD/Textures/Magazine.png
+
+
+newmtl OTHER
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.030000 0.030000 0.030000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Volumes/Seagate HD/Blends/M4A1 SOPMOD/Textures/Plain_Metal.png
+
+
+newmtl OTHER_AO.png.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.030000 0.030000 0.030000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Volumes/Seagate HD/Blends/M4A1 SOPMOD/Textures/AO.png
+
+
+newmtl Plastic_AO.png.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.030000 0.030000 0.030000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Volumes/Seagate HD/Blends/M4A1 SOPMOD/Textures/AO.png
+
+
